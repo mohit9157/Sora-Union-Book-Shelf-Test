@@ -1,5 +1,3 @@
-# Sora-Union-Book-Shelf-Test
-
 
 | T.C ID | Module | T.C Title| T.C Description | Preconditions | Steps to reproduce | Expected Result | Actual Result | Status | Comments | Test plan for future testing passes. |
 |--|--|--|--|--|--|--|--|--|--|--|--|
